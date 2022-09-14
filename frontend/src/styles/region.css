@@ -1,0 +1,18 @@
+.sectionRegion {
+  display: flex;
+  flex-direction: column;
+  height: 60vh;
+  width: 75%;
+  margin: auto;
+}
+
+.divRegion {
+  border: solid black 2px;
+  margin-top: 20px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.pictureRegion {
+  width: 100%;
+}
